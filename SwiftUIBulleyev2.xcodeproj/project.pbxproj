@@ -11,6 +11,7 @@
 		F6187C73263FC12A00B9D9B4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6187C72263FC12A00B9D9B4 /* ContentView.swift */; };
 		F6187C75263FC12B00B9D9B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6187C74263FC12B00B9D9B4 /* Assets.xcassets */; };
 		F6187C78263FC12B00B9D9B4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6187C77263FC12B00B9D9B4 /* Preview Assets.xcassets */; };
+		F67881C9265236B600F94C17 /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F67881C8265236B600F94C17 /* AboutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		F6187C74263FC12B00B9D9B4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F6187C77263FC12B00B9D9B4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		F6187C79263FC12B00B9D9B4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F67881C8265236B600F94C17 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				F6187C70263FC12A00B9D9B4 /* SwiftUIBulleyev2App.swift */,
 				F6187C72263FC12A00B9D9B4 /* ContentView.swift */,
+				F67881C8265236B600F94C17 /* AboutView.swift */,
 				F6187C74263FC12B00B9D9B4 /* Assets.xcassets */,
 				F6187C79263FC12B00B9D9B4 /* Info.plist */,
 				F6187C76263FC12B00B9D9B4 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F6187C73263FC12A00B9D9B4 /* ContentView.swift in Sources */,
+				F67881C9265236B600F94C17 /* AboutView.swift in Sources */,
 				F6187C71263FC12A00B9D9B4 /* SwiftUIBulleyev2App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
